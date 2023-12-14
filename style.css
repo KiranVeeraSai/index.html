@@ -1,0 +1,6 @@
+#blog > h1 {
+    color: rgb(255, 166, 0);
+  }
+  h1:hover{
+    color: orange;
+  }
